@@ -1,0 +1,21 @@
+{
+  "name": "soliho-backend",
+  "version": "1.0.0",
+  "description": "backend server for soliho website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaleab yitbarek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.13.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "htmlspecialchars": "^1.0.5",
+    "nodemailer": "^4.4.1"
+  }
+}
